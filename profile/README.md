@@ -65,16 +65,6 @@ Toda contribución es bienvenida.
 
 ---
 
-## 📈 Métricas de la organización
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateLogic&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=moltack)](https://github-stats-extended.vercel.app/api?username=MateLogic&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=moltack)
-
-</div>
-
----
-
 ## ❤️ Apóyanos
 
 Si utilizas uno de nuestros proyectos en producción o simplemente te gusta lo que creamos, dejar una ⭐ es una de las mejores formas de apoyarnos.
